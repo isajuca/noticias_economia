@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Segoe UI', Tahoma;
-    background-color: #F2F5F5;
+    background-color: #000000;
 }
 
 header {
@@ -17,7 +17,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #0B3352;
+    background-color:#606B73;
     color: #ffffff;
     font-size: 30px;
     text-align: center;
@@ -48,7 +48,7 @@ align-items: center;
 
 .noticia-principal {
     width: 45%;
-    background-color: #C8E4F7;
+    background-color: #A69F95;
     display: flex;
     flex-direction: column;
     border-radius: 3px;
@@ -87,7 +87,7 @@ h2, p, h3 {
 
 .noticia-secundaria {
   height: 30%;
-    background-color: #0B3352;
+    background-color: #7A7A7A;
     color: white;
     display: flex;
     padding: 10px;
@@ -139,7 +139,7 @@ h2, p, h3 {
 
 .noticia-n3 {
     width: 45%;
-    background-color: #C8E4F7;
+    background-color: #A69F95;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -162,7 +162,7 @@ h2, p, h3 {
 
 
 footer{
-    background-color: #0B3352;
+    background-color: #606B73;
     color: white;
     text-align: center;
     padding: 10px;
